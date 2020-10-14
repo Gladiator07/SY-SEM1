@@ -6,6 +6,7 @@
 - The most basic construction of a capacitor consists of two parallel conductors (usually metallic plates) seperated by a dielectric material.
 -  When we connect a voltage source across the capacitor, the conductor (capacitor plate) attached to the positive terminal of the source becomes positively charged, and the conductor (capacitor plate) connected to the negative terminal of the source becomes negatively charged. 
 <br><br>
+
 ![image](https://www.elprocus.com/wp-content/uploads/2016/02/Construction-of-a-Capacitor.jpg)
 <br>
 
@@ -46,12 +47,14 @@
 
 <br><br>
 
+
 ![image](https://www.tutorialspoint.com/basic_electronics/images/construction.jpg)
+
 
 <br><br>
 
 
--  ### Detailed working [here](https://www.tutorialspoint.com/basic_electronics/basic_electronics_variable_capacitors.htm)
+- Detailed working [here](https://www.tutorialspoint.com/basic_electronics/basic_electronics_variable_capacitors.htm)
 
 
 ## Parallel and Series
