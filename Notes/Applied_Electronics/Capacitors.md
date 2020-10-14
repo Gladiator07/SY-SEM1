@@ -28,12 +28,16 @@
 - Also known as fixed capacitor, in which paper is used to store the energy in the form of electrical field.
 - Usually used with a capacitance value of 1nF to 1uF. It stores a fixed amount of charge
 - Dielectric is paper
+  
 <br>
+
 ![image](https://www.elprocus.com/wp-content/uploads/paper-capacitor-working.jpg)
+
 <br>
+
 - More on paper capacitors [here](https://www.elprocus.com/what-is-a-paper-capacitor-construction-working-applications/)
 
-3. Ceramic Capacitors
+1. Ceramic Capacitors
 - Uses ceramic material as dielectric
 - Small capacitance values, typically between 1nF and 1uF.
 - They are not polarized, which means they may be safely connected to AC source.
