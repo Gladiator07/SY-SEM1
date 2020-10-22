@@ -1,5 +1,14 @@
 # Basic Electronic Components
 
+## Resistors
+- [Wikipedia](https://en.wikipedia.org/wiki/Resistor)
+- [Types of Resistors](https://www.electronics-tutorials.ws/resistor/res_1.html)
+- [Types of Resistors](https://www.electricaltechnology.org/2015/01/resistor-types-resistors-fixed-variable-linear-non-linear.html) - detailed
+
+## Capacitors
+- [Capacitor working](https://www.electronics-tutorials.ws/capacitor/cap_1.html)
+- [Types of capacitors(https://www.elprocus.com/capacitors-types-applications/)]
+
 ## Inductors
 - [Video Explanation](https://www.youtube.com/watch?v=KSylo01n5FY&t=553s) - best video on Inductors
 
