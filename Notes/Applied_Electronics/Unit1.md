@@ -8,9 +8,11 @@
 ## Capacitors
 - [Capacitor working](https://www.electronics-tutorials.ws/capacitor/cap_1.html)
 - [Types of capacitors](https://www.elprocus.com/capacitors-types-applications/)]
-
+- [Working](https://www.youtube.com/watch?v=X4EUwTwZ110) - best video 
+- 
 ## Inductors
 - [Video Explanation](https://www.youtube.com/watch?v=KSylo01n5FY&t=553s) - best video on Inductors
+- [Video - bit mathematical](https://www.youtube.com/watch?v=R2QQ0yiqH_U)
 
 
 
