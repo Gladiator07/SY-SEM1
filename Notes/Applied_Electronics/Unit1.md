@@ -9,7 +9,10 @@
 - [Capacitor working](https://www.electronics-tutorials.ws/capacitor/cap_1.html)
 - [Types of capacitors](https://www.elprocus.com/capacitors-types-applications/)]
 - [Working](https://www.youtube.com/watch?v=X4EUwTwZ110) - best video 
-- 
+- [Capacitive Reactance](https://www.electronicsforu.com/resources/learn-electronics/capacitive-reactance)
+
+    ### Coupling Capacitors
+    - [Why we need Coupling Capacitors?](https://www.youtube.com/watch?v=tZmXTADSmMs)
 ## Inductors
 - [Video Explanation](https://www.youtube.com/watch?v=KSylo01n5FY&t=553s) - best video on Inductors
 - [Video - bit mathematical](https://www.youtube.com/watch?v=R2QQ0yiqH_U)
