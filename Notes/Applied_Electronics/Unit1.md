@@ -7,7 +7,7 @@
 
 ## Capacitors
 - [Capacitor working](https://www.electronics-tutorials.ws/capacitor/cap_1.html)
-- [Types of capacitors](https://www.elprocus.com/capacitors-types-applications/)]
+- [Types of capacitors](https://www.elprocus.com/capacitors-types-applications/)
 - [Working](https://www.youtube.com/watch?v=X4EUwTwZ110) - best video 
 - [Capacitive Reactance](https://www.electronicsforu.com/resources/learn-electronics/capacitive-reactance)
 
@@ -15,6 +15,13 @@
     - [Why we need Coupling Capacitors?](https://www.youtube.com/watch?v=tZmXTADSmMs) - video
     - [Decoupling/Bypass Capacitors](https://www.youtube.com/watch?v=KKjHZpNMeik) - video
     - [Decoupling Capacitors in detail](https://components101.com/articles/decoupling-capacitor-vs-bypass-capacitors-working-and-applications) - very detailed
+    - [Capacitor Filter](https://www.elprocus.com/half-wave-and-full-wave-rectifier-with-capacitor-filter/)
+    - [Full Wave Bridge Rectifier](https://www.electronics-tutorials.ws/diode/diode_6.html)
+  
+<br>
+<br>
+
+
 ## Inductors
 - [Video Explanation](https://www.youtube.com/watch?v=KSylo01n5FY&t=553s) - best video on Inductors
 - [Video - bit mathematical](https://www.youtube.com/watch?v=R2QQ0yiqH_U)
