@@ -61,7 +61,7 @@
 <br>
 <br>
 
-# RLC CIRCUITS
+## RLC CIRCUITS
 
 
 
@@ -72,7 +72,7 @@
 <br>
 
 
-# DIODE APPLICATIONS
+## DIODE APPLICATIONS
 
 <br>
 
@@ -85,3 +85,4 @@
 - [BJT Transistor working](https://www.youtube.com/watch?v=-VwPSDQmdjM) 
 - [Common Emitter Amplifier](https://www.elprocus.com/common-emitter-amplifier-circuit-working/)
 - [Common Emitter Amplifier](https://www.elprocus.com/common-emitter-amplifier-circuit-working/)
+- [Common Emitter Amplifier](https://www.youtube.com/watch?v=KynKHr2cXgk) - video
