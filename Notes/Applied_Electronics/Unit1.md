@@ -79,4 +79,9 @@
 ## Diode as Rectifier
 - [half wave rectifier](https://www.electrical4u.com/half-wave-rectifiers/) - very detailed explanation
 - [Full wave rectifier](https://physics-and-radio-electronics.com/electronic-devices-and-circuits/rectifier/fullwaverectifier.html) - great read
-- 
+
+
+## Transistor as Amplifier
+- [BJT Transistor working](https://www.youtube.com/watch?v=-VwPSDQmdjM) 
+- [Common Emitter Amplifier](https://www.elprocus.com/common-emitter-amplifier-circuit-working/)
+- [Common Emitter Amplifier](https://www.elprocus.com/common-emitter-amplifier-circuit-working/)
