@@ -47,7 +47,11 @@
 - [Also this](https://www.elprocus.com/light-emitting-diode-led-working-application/)
 
 ## Transistors
-
+- [Video Explanation](https://www.youtube.com/watch?v=7ukDKVHnac4)
+- [Bit detailed video](https://www.youtube.com/watch?v=yOmPCjPlaEg)
+- [BJT Transistors](https://www.electrical4u.com/bipolar-junction-transistor-or-bjt-n-p-n-or-p-n-p-transistor/)
+- [BJT Transistors](https://www.tutorialspoint.com/bipolar-junction-transistor) - TutorialsPoint
+- [FET Transistors](https://www.electronics-notes.com/articles/electr)
 
 
 
