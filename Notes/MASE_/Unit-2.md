@@ -23,4 +23,16 @@
 - [Electrical Discharge Machining](https://www.youtube.com/watch?v=L1D5DLWWMp8)
 - [Wire EDM](https://www.youtube.com/watch?v=pBueWfzb7P0)
 - [Laser Beam Machining](https://www.youtube.com/watch?v=PQuAr4bs-Mc)
-- []
+- [Electron Beam Machining](https://www.youtube.com/watch?v=QuZ-qkthCCY)
+- [Plasma Arc Cutting](https://www.youtube.com/watch?v=aQ7pfjtlVUk)
+- [Photochemical Machining](https://www.youtube.com/watch?v=NDp3OPI6dgo)
+- [Electrochemical Machining](https://www.youtube.com/watch?v=b1nX7WVIN7U)
+  
+<br>
+<br>
+
+# Machining and Injection Molding
+- [Sand Casting](https://www.youtube.com/watch?v=1oZnxZj6-Ig)
+- [Open die and Closed die forging](https://www.youtube.com/watch?v=Zg9UKEJ1Wj8)
+- [Drop, Press and Machine Forging](https://www.youtube.com/watch?v=SKN3WllWwXo)
+- 
