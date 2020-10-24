@@ -80,9 +80,16 @@
 - [half wave rectifier](https://www.electrical4u.com/half-wave-rectifiers/) - very detailed explanation
 - [Full wave rectifier](https://physics-and-radio-electronics.com/electronic-devices-and-circuits/rectifier/fullwaverectifier.html) - great read
 
+<br>
+<br>
+
 
 ## Transistor as Amplifier
 - [BJT Transistor working](https://www.youtube.com/watch?v=-VwPSDQmdjM) 
 - [Common Emitter Amplifier](https://www.elprocus.com/common-emitter-amplifier-circuit-working/)
 - [Common Emitter Amplifier](https://www.elprocus.com/common-emitter-amplifier-circuit-working/)
 - [Common Emitter Amplifier](https://www.youtube.com/watch?v=KynKHr2cXgk) - video
+- [Common Collector Amplifier](https://www.electronics-tutorials.ws/amplifier/common-collector-amplifier.html)
+- [Common Collector Amplifier](https://www.youtube.com/watch?v=qSxgU9jtFhw) - video
+- [Impedance significance](https://www.quora.com/Why-should-a-circuit-have-low-output-impedance-and-high-input-impedance#:~:text=on%20the%20signal.-,A%20low%20impedance%20means%20that%20the%20circuit%20draws,more%20power%20on%20the%20signal.&text=As%20long%20as%20the%20output,going%20into%2C%20everything%20works%20well.)
+- 
