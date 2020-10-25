@@ -36,3 +36,16 @@
 - [Open die and Closed die forging](https://www.youtube.com/watch?v=Zg9UKEJ1Wj8)
 - [Drop, Press and Machine Forging](https://www.youtube.com/watch?v=SKN3WllWwXo)
 - [Turning](https://www.youtube.com/watch?v=8EsAxOnzEms)
+- [Drilling](https://www.youtube.com/watch?v=HqNRlDsqWho)
+- [Milling](https://www.youtube.com/watch?v=LDxq9AkxYfk)
+- [CNC Machining](https://www.youtube.com/watch?v=FNYEXjRmDtI)
+- [Injection Moulding](https://www.youtube.com/watch?v=b1U9W4iNDiQ)
+- [Injection Moulding Process](https://www.youtube.com/watch?v=qn16JtE_vLc)
+  
+<br>
+<br>
+
+# Manufacturing Process
+- [Rolling](https://www.youtube.com/watch?v=JIM_t9QH8J8)
+- [Extrusion](https://www.youtube.com/watch?v=Y75IQksBb0M)
+- [Extrusion Types](https://www.youtube.com/watch?v=CdgBwlz1Al4)
