@@ -37,4 +37,9 @@
 
 
 # Numericals
-- []
+- [Signal Classification and Properties-1](https://www.sanfoundry.com/signals-systems-mcqs-signal-classification-and-properties/)
+- [Signal Classification and Properties-1](https://www.sanfoundry.com/signals-systems-questions-answers-freshers/) - important
+- [Classification of Signals](https://www.sanfoundry.com/signals-systems-questions-answers-classification-signals/)
+- [Elementary Signals - 1](https://www.sanfoundry.com/signals-systems-questions-answers-elementary-signals-1/)
+- [Elementary Signals - 2](https://www.sanfoundry.com/signals-systems-questions-answers-experienced/)
+- 
